@@ -1,6 +1,6 @@
-A Jasmine seed with Bower.
-
-Based on the Standalone Release is for simple, browser page, or console projects
+Description:
+- A Jasmine seed with Bower ready to go.
+- Based on the Standalone Release is for simple, browser page, or console projects
 
 
 ## Leo Lanese, I build websites, London, UK<br>
